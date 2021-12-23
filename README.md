@@ -1,8 +1,12 @@
-# Cookie Banner
+# Cookie Banner - BETA
 Cookie banner which you can use with PostHog and other tools, the banner will activate services in specific cookie types (aligned with GDPR), when a user accepts them. If a user hits the reject key, cookies will be purged.
 
 # How to configure
 It's simple, in your document head, include cookiebanner.js and then activate it as below, only include functions for the types of cookies you track.
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/PostHog/cookie-banner@main/public/cookiebanner.min.js"></script>
+```
 
 It's essential that you include a link to a cookie policy which explains clearly what your cookies do.
 
