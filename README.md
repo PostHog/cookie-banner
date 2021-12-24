@@ -38,7 +38,7 @@ Now you're ready to go
 
 ## How does it look?
 We've gone for simplicty here:
-![image](https://user-images.githubusercontent.com/85295485/147261679-730424a1-c015-4835-beb7-eb6762e3bbdc.png)
+![image](https://user-images.githubusercontent.com/85295485/147352459-804e08ea-a2ff-45bc-9512-c821bc80b3c9.png)
 
 ## Caveats
 * When someone changes their cookie preferences to remove only one type of cookies, all cookies will be purged (since we don't now which cookie belongs to which category)
